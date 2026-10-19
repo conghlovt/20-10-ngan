@@ -1,0 +1,6 @@
+{
+  "name": "Sự thức giấc của Tiny - Ngày 20/10",
+  "description": "Trang web chúc mừng ngày Phụ nữ Việt Nam 20/10 cùng chú robot Tiny đáng yêu: lời chúc, quà tặng cỏ 4 lá, hiệu ứng bầu trời lung linh và gian hàng lưu niệm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
